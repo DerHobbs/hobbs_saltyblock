@@ -12,3 +12,5 @@ ensure hobbs_saltyblock in your resources.cfg
 
 ## Suggestions or Ideas?
 Please let me know your ideas, if I like them I will implement and insert them if necessary.
+
+[![Watch the video](https://i.ibb.co/SKbzDWK/Screenshot-8.png)](https://streamable.com/v4rxnw)
