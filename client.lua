@@ -19,7 +19,7 @@ Citizen.CreateThread(function()
     -- Main loop
     while CharakterSelected do
         SaltyChatStatus = exports.saltychat:GetPluginState()
-        if SaltyChatStatus == Config.IngameSaltyChatStatus then
+        if SaltyChatStatus == Config.IngameSaltyStatus then
             if Citizen.InvokeNative(0xB54ADBE65D528FCB) then
                 ShutdownLoadingScreen()
                 IsLoadingScreenStartet = false
